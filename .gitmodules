@@ -1,0 +1,3 @@
+[submodule "External/VkBootstrapNet"]
+	path = External/VkBootstrapNet
+	url = https://github.com/GodOfMemes/VkBootstrapNet.git

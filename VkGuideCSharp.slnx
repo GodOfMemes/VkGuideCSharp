@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/External/">
+    <Project Path="External\VkBootstrapNet\VkBootstrapNet\VkBootstrapNet.csproj" Type="Classic C#" />
+  </Folder>
+  <Project Path="VkGuideCSharp\VkGuideCSharp.csproj" Type="Classic C#" />
+</Solution>
